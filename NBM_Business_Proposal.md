@@ -8,7 +8,7 @@ All NFL offenses would benefit from being able to reply on an analytical source 
 
 Data Description:
 
-•	I plan to use play-by-play data from the 2019 and 2020 NFL seasons. The model would be trained with historical play by play data with variables including time on the game clock at the moment the play starts, play type, play direction, and pre-snap formation. A unit of analysis will be the number of yards gained on a pass or run play. Depending on field position, a successful play will be defined by the number of yards gained or whether points were scored. Yards and point scored are also the targets. 
+•	I plan to use play-by-play data from the 2019 and 2020 NFL seasons. The model would be trained with historical play by play data with variables including time on the game clock at the moment the play starts, play type, play direction, and pre-snap formation. A unit of analysis will be the number of yards gained on a pass or run play. Depending on field position, a successful play will be defined by the number of yards gained or whether points were scored. Yards and points scored are also the targets. 
 
 Tools:
 
