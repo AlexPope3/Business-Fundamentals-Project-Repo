@@ -19,4 +19,4 @@ Feature engineering:
 •	Red zone: created a feature to track whether the play was run from the red zone (final 20 yards of opponent’s half before the goal line). 
 •	Pass and Run Direction: combined columns to create variables that detailed the play direction
 •	Created variables to track the expected points added per play, the pass to run ratio, and the percentage of first and second downs where passing plays occurred for each game
-![image](https://user-images.githubusercontent.com/86431477/137488568-1bd3e6f5-8894-4f1e-98be-e218f8f05676.png)
+
